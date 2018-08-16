@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="GitHubScrape-core" />
+        <module name="GitHubScrape" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="GitHubScrape-core" target="1.8" />
+      <module name="GitHubScrape" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
