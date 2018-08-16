@@ -1,5 +1,5 @@
 # GitHubScrape
-This repos scrape little bit information from 'selenium' key word search.
+This repo scrape little bit information from 'selenium' key word search.
 
 To run this appliction you need to install docker: https://www.docker.com/
 
