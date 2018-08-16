@@ -12,6 +12,7 @@ Clone repository
 Navigate via cmd to repository folder and run the next commend for MongoDB: 
 
 docker pull stefanscherer/mongo-windows
+
 docker run stefanscherer/mongo-windows
 
 Run 'mvn clean install' on repository folder 
