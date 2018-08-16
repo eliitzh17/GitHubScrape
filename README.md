@@ -16,3 +16,5 @@ docker pull stefanscherer/mongo-windows
 docker run stefanscherer/mongo-windows
 
 Run 'mvn clean install' on repository folder 
+
+**THE Dockerfile IS FOR CLEAN DOCKER RUNNING**
