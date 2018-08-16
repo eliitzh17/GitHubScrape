@@ -2,46 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="addcd848-c4f9-4992-b291-21181139548f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/GitHubScrape.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/GitHubScrape.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitHubScrape-core/Config.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitHubScrape-core/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitHubScrape-core/GitHubScrape-core.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitHubScrape-core/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitHubScrape-core/src/main/java/Utility.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitHubScrape-core/src/main/java/elements/AbstractElement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitHubScrape-core/src/main/java/elements/ResultElement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitHubScrape-core/src/main/java/elements/SearchBox.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitHubScrape-core/src/main/java/pages/AbstractPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitHubScrape-core/src/main/java/pages/MainPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitHubScrape-core/src/main/java/pages/ResultPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitHubScrape-core/src/main/resources/chromedriver" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitHubScrape-core/src/main/resources/chromedriver.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitHubScrape-core/src/test/java/Scenario.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitHubScrape-core/src/test/java/ScrapeTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitHubScrape-core/target/classes/Utility.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitHubScrape-core/target/classes/chromedriver" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitHubScrape-core/target/classes/chromedriver.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitHubScrape-core/target/classes/elements/AbstractElement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitHubScrape-core/target/classes/elements/ResultElement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitHubScrape-core/target/classes/elements/SearchBox.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitHubScrape-core/target/classes/pages/AbstractPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitHubScrape-core/target/classes/pages/MainPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitHubScrape-core/target/classes/pages/ResultPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitHubScrape-core/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitHubScrape-core/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitHubScrape-core/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitHubScrape-core/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitHubScrape-core/target/surefire-reports/2018-08-14T20-00-08_270-jvmRun1.dump" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitHubScrape-core/target/surefire-reports/2018-08-14T20-00-08_270-jvmRun1.dumpstream" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitHubScrape-core/target/test-classes/Scenario.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitHubScrape-core/target/test-classes/ScrapeTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/elements/ResultElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/elements/ResultElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/elements/SearchBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/elements/SearchBox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/ResultPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/ResultPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Scenario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Scenario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ScrapeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ScrapeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/elements/SearchBox.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/elements/SearchBox.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Scenario.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Scenario.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ScrapeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ScrapeTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -60,33 +29,33 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="3" />
+          <entry key="java" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="3" />
+          <entry key="JAVA" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="131" />
+          <entry key="java" value="941" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="131" />
+          <entry key="JAVA" value="941" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/Scenario.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="21" column="15" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
+            <state relative-caret-position="433">
+              <caret line="30" column="16" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -94,11 +63,42 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/ScrapeTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="630">
-              <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+              <caret line="48" column="9" lean-forward="true" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pages/ResultPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-36">
+              <caret line="12" column="44" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/elements/SearchBox.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
+              <folding>
+                <element signature="e#698#699#0" expanded="true" />
+                <element signature="e#732#733#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pages/MainPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="12" column="25" selection-start-line="12" selection-end-line="13" />
             </state>
           </provider>
         </entry>
@@ -111,8 +111,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/ScrapeTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/Scenario.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pages/MainPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/elements/SearchBox.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pages/ResultPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ScrapeTest.java" />
       </list>
     </option>
   </component>
@@ -175,7 +178,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ScrapeTest">
+  <component name="RunManager" selected="JUnit.ScrapeTest.test">
     <configuration name="ScrapeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="GitHubScrape" />
       <option name="PACKAGE_NAME" value="" />
@@ -200,8 +203,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ScrapeTest" />
         <item itemvalue="JUnit.ScrapeTest.test" />
+        <item itemvalue="JUnit.ScrapeTest" />
       </list>
     </recent_temporary>
   </component>
@@ -216,29 +219,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ScrapeTest_test - 2018.08.16 at 13h 43m 56s.xml">
+    <history-entry file="ScrapeTest_test - 2018.08.16 at 16h 55m 09s.xml">
       <configuration name="ScrapeTest.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ScrapeTest_test - 2018.08.16 at 13h 44m 24s.xml">
+    <history-entry file="ScrapeTest_test - 2018.08.16 at 16h 55m 42s.xml">
       <configuration name="ScrapeTest.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ScrapeTest - 2018.08.16 at 14h 28m 56s.xml">
-      <configuration name="ScrapeTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ScrapeTest_test - 2018.08.16 at 14h 30m 17s.xml">
+    <history-entry file="ScrapeTest_test - 2018.08.16 at 16h 57m 13s.xml">
       <configuration name="ScrapeTest.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ScrapeTest_test - 2018.08.16 at 14h 32m 39s.xml">
+    <history-entry file="ScrapeTest_test - 2018.08.16 at 16h 57m 46s.xml">
       <configuration name="ScrapeTest.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ScrapeTest - 2018.08.16 at 14h 33m 16s.xml">
-      <configuration name="ScrapeTest" configurationId="JUnit" />
+    <history-entry file="ScrapeTest_test - 2018.08.16 at 16h 58m 23s.xml">
+      <configuration name="ScrapeTest.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ScrapeTest - 2018.08.16 at 14h 33m 37s.xml">
-      <configuration name="ScrapeTest" configurationId="JUnit" />
+    <history-entry file="ScrapeTest_test - 2018.08.16 at 16h 59m 13s.xml">
+      <configuration name="ScrapeTest.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ScrapeTest - 2018.08.16 at 14h 33m 52s.xml">
-      <configuration name="ScrapeTest" configurationId="JUnit" />
+    <history-entry file="ScrapeTest_test - 2018.08.16 at 17h 06m 28s.xml">
+      <configuration name="ScrapeTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ScrapeTest_test - 2018.08.16 at 17h 14m 21s.xml">
+      <configuration name="ScrapeTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ScrapeTest_test - 2018.08.16 at 17h 15m 17s.xml">
+      <configuration name="ScrapeTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ScrapeTest_test - 2018.08.16 at 17h 17m 37s.xml">
+      <configuration name="ScrapeTest.test" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -256,7 +265,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Messages" weight="0.3295082" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3295082" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3295082" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -273,28 +282,74 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="158/1000" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>158/1000</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>158*1000</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pages/AbstractPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Scenario.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="30" column="16" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/elements/SearchBox.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="e#698#699#0" expanded="true" />
+            <element signature="e#732#733#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pages/MainPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="120">
+          <caret line="12" column="25" selection-start-line="12" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pages/ResultPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-36">
+          <caret line="12" column="44" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="44" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ScrapeTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="630">
-          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Scenario.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="21" column="15" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="48" column="9" lean-forward="true" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
         </state>
       </provider>
     </entry>

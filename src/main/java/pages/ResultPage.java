@@ -1,6 +1,8 @@
 package pages;
 
 import elements.ResultElement;
+import elements.SearchBox;
+import lombok.Getter;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -12,6 +14,8 @@ public class ResultPage extends AbstractPage
 {
     private static final String RESULT_CLASS_NAME = "repo-list-item";
 
+    @Getter(lazy = true)
+    private final SearchBox searchBox = new SearchBox(driver.findElement(By.className("header-search-input")));
     private List<ResultElement> resultList;
 
     public ResultPage(WebDriver driver)

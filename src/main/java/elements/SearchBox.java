@@ -6,7 +6,7 @@ import org.openqa.selenium.WebElement;
 import pages.ResultPage;
 
 /**
- * This object represent the search box in the top toolbar.
+ * This object represent the searchAndGetResult box in the top toolbar.
  * */
 public class SearchBox extends AbstractElement
 {
@@ -15,12 +15,22 @@ public class SearchBox extends AbstractElement
         super(webElement);
     }
 
-    public ResultPage search(String key, WebDriver driver)
+    public ResultPage searchAndGetResult(String key, WebDriver driver)
     {
-        webElement.click();
-        webElement.sendKeys(key);
+        search(key);
         webElement.sendKeys(Keys.ENTER);
 
         return new ResultPage(driver);
+    }
+
+    public void search(String key)
+    {
+        webElement.click();
+        webElement.sendKeys(key);
+    }
+
+    public void clear()
+    {
+        webElement.clear();
     }
 }

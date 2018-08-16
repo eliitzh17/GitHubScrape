@@ -11,7 +11,7 @@ import java.util.List;
 import static java.lang.Double.*;
 
 /**
- * This object represent single result after search.
+ * This object represent single result after searchAndGetResult.
  * */
 public class ResultElement extends AbstractElement
 {
