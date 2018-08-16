@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/GitHubScrape.iml" filepath="$PROJECT_DIR$/.idea/GitHubScrape.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GitHubScrape-core/GitHubScrape-core.iml" filepath="$PROJECT_DIR$/GitHubScrape-core/GitHubScrape-core.iml" />
+    </modules>
+  </component>
+</project>
